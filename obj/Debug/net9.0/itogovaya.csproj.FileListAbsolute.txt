@@ -1,0 +1,14 @@
+C:\itogovaya\bin\Debug\net9.0\itogovaya.exe
+C:\itogovaya\bin\Debug\net9.0\itogovaya.deps.json
+C:\itogovaya\bin\Debug\net9.0\itogovaya.runtimeconfig.json
+C:\itogovaya\bin\Debug\net9.0\itogovaya.dll
+C:\itogovaya\bin\Debug\net9.0\itogovaya.pdb
+C:\itogovaya\obj\Debug\net9.0\itogovaya.GeneratedMSBuildEditorConfig.editorconfig
+C:\itogovaya\obj\Debug\net9.0\itogovaya.AssemblyInfoInputs.cache
+C:\itogovaya\obj\Debug\net9.0\itogovaya.AssemblyInfo.cs
+C:\itogovaya\obj\Debug\net9.0\itogovaya.csproj.CoreCompileInputs.cache
+C:\itogovaya\obj\Debug\net9.0\itogovaya.dll
+C:\itogovaya\obj\Debug\net9.0\refint\itogovaya.dll
+C:\itogovaya\obj\Debug\net9.0\itogovaya.pdb
+C:\itogovaya\obj\Debug\net9.0\itogovaya.genruntimeconfig.cache
+C:\itogovaya\obj\Debug\net9.0\ref\itogovaya.dll
